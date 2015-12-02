@@ -1,0 +1,30 @@
+{
+  "name": "yolo",
+  "version": "0.0.1",
+  "description": "stream torrent from imdb ref",
+  "main": "yolo.js",
+  "dependencies": {
+    "kickass-torrent": "^0.0.3",
+    "request": "^2.65.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node yolo tt0113568"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pciavald/yolo.git"
+  },
+  "keywords": [
+    "node",
+    "torrent",
+    "stream",
+    "imdb"
+  ],
+  "author": "pciavald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pciavald/yolo/issues"
+  },
+  "homepage": "https://github.com/pciavald/yolo#readme"
+}
